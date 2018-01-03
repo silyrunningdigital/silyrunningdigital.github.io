@@ -1,0 +1,79 @@
+body
+{
+	font-family:  Arial, Helvetica, sans-serif;
+	background-color: rgb(255, 255, 255);
+	color: black;
+        margin:0;
+        padding:0;
+}
+
+p {
+	font-family:  Arial, Helvetica, sans-serif;
+        font-size:12px;
+}
+
+td {
+	font-family:  Arial, Helvetica, sans-serif;
+        font-size:12px;
+}
+
+
+a, a:link, a:active, a:visited {
+color: #2727D1;
+text-decoration:underline;
+}
+
+a:hover 
+{ 
+color:#4B4B4B;
+  text-decoration:underline;
+}
+
+.adv_title1, a.adv_title1:link, a.adv_title1:visited, a.adv_title1:active, a.adv_title1:hover 
+{FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; COLOR: #333333
+}
+.adv_title2, a.adv_title2:link, a.adv_title2:visited, a.adv_title2:active, a.adv_title2:hover 
+{FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #555555;
+}
+.adv_link, a.adv_link:link, a.adv_link:visited, a.adv_link:active, a.adv_link:hover 
+{FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #550000;
+}
+.adv_normal {FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.adv_h1 {FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-WEIGHT: bold
+}
+
+h1           {
+               color: #000000;
+               font-size:20px;
+               font-weight: bold;
+               font-style:italic;
+              }
+
+h2           { color: #000000;
+               font-size:15px;;
+               font-weight: bold;
+
+              }
+
+
+.content {  font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+.content_small {  font-family: Arial, Helvetica, sans-serif; font-size: 11px}
+.header1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16pt; font-style: italic; font-weight: bold}
+.header2 {  font-size: 13pt; font-weight: bold}
+.header3 {  font-size: 10pt; font-weight: bold}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
