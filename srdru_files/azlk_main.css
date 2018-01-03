@@ -1,0 +1,51 @@
+body { font-family: verdana, Arial;
+       font-size:11px;
+       color:#434346;
+      }
+
+td { font-family: verdana, Arial;
+       font-size:11px;
+       color:#999999;
+      }
+p { font-family: verdana, Arial;
+       font-size:11px;
+       color:#999999;
+      }
+
+a, a:active, a:visited {
+       color: #575757;
+       text-decoration:none;
+       font-size:10px;
+}
+
+a:hover {
+       color: #1F1FAD;
+       text-decoration:none;
+       font-size:10px;
+}
+a.blue, a.blue:active, a.blue:visited {
+       color: #0033cc;
+       text-decoration:underline;
+       font-size:11px;
+}
+
+a.blue:hover {
+       color: #0033cc;
+       text-decoration:none;
+       font-size:11px;
+}
+
+
+a.menu, a.menu:active, a.menu:visited {
+       color: #999999;
+       text-decoration:none;
+       font-size:14px;
+       font-family: Times New Roman, Verdana;
+}
+
+a.menu:hover {
+       color: #0033cc;
+       text-decoration:none;
+       font-size:14px;
+       font-family: Times New Roman, Verdana;
+}
